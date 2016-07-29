@@ -1,5 +1,5 @@
 # IJSampleProgram
 
-http://www.ne.jp/asahi/umi/noboru/
+It is a sample program to use in the folowing site.
 
-で使用するサンプルプログラムです。
+https://waku-take-a.github.io
